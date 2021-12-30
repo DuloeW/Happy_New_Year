@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Lobster&family=Open+Sans+Condensed:wght@300&family=The+Nautigal:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: url('20211231_063304_0000.png');
+  height: 95vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.Back{
+}
+.Back h1{
+  padding-top: 80%;
+  text-align: center;
+  font-family: 'Island Moments', cursive;
+  letter-spacing: 3px;
+  font-size: 58px;
+}
+.Back h5{
+  text-align: center;
+  font-family: 'The Nautigal', cursive;
+  font-size: 30px;
+}
